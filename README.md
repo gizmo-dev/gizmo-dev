@@ -2,7 +2,7 @@
 [![spotify](https://dev.discordprofiles.me/badge/spotify/428529925750915073)](https://dev.discordprofiles.me/openspotify/428529925750915073)
 <!--
 **gizmo-dev/gizmo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://hit.yhype.me/github/profile?user_id=51985250)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
