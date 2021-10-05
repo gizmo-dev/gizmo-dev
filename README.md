@@ -10,7 +10,7 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
 
 <br>
 
-<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=&style=for-the-badge">
+![](https://komarev.com/ghpvc/?username=gizmo-dev&style=flat-square&color=39FF14&label=VISITORS)
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
