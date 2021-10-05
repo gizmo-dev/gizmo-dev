@@ -116,6 +116,10 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
 
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
+     <a align="center" href="https://buymeacoffee.com/g1zmo">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+    </a>
+    <br>
     <a href="https://twitter.com/gizmo_gg">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
