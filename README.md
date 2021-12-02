@@ -11,12 +11,13 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
 <br>
 
 ![](https://komarev.com/ghpvc/?username=gizmo-dev&style=flat-square&color=39FF14&label=VISITORS)
-
+<!--
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
 <p align="center">
-  <!-- WEB -->
-   <a href="https://html.com/">
+-->
+  <!-- WEB 
+   <a href="https://html.com/"> 
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
   <a href="https://www.w3schools.com/css/">
@@ -26,7 +27,8 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
   <br>
-  <!-- FRONTEND -->
+-->
+  <!-- FRONTEND 
    <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
@@ -42,7 +44,8 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
   <br>
-  <!-- BACKEND -->
+-->
+  <!-- BACKEND 
   
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -64,7 +67,7 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
   </a>
 
   <br>
-  <!-- CLOUD -->
+  <!-- CLOUD 
      <a href="https://www.npmjs.com/">
     <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whit">
   </a>
@@ -81,7 +84,7 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 <br>
-  <!-- TOOLS -->
+  <!-- TOOLS 
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
@@ -94,7 +97,7 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
    <a href="https://www.google.com/intl/en_in/chrome/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
-
+-->
   <br>
  
 
