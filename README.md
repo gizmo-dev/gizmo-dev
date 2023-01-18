@@ -3,10 +3,8 @@
 I am Abbas Ali , Another Backend developer struggling with Frontend.🎭 
 <h1 align="center"> 👨🏻‍💻About Me </h1>
 
-- 🔭 I’m currently working on [@GizmolabAI](https://github.com/gizmolabai)
-- 🌱 I’m currently learning - [NEXT.JS]()
-- 👯 I’m looking to collaborate on Rest API Projects
-- 📫 How to reach me: [hello@abbasali.me](mailto:hello@abbasali.me)
+- 🔭 I’m currently Building [Gizmolab](https://gizmolab.io) & [BotsBloc](https://prodigy.botsbloc.io)
+- 📫 How to reach me: [abbasali@gizmolab.io](mailto:abbasali@gizmolab.io)
 
 <br>
 
@@ -103,7 +101,7 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
 
    
 </p>
-
+<!-- 
 <h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
@@ -116,24 +114,21 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
   <br>
 </p>
 
-
+ -->
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
-     <a align="center" href="https://buymeacoffee.com/g1zmo">
+<!--      <a align="center" href="https://buymeacoffee.com/g1zmo">
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-    </a>
+    </a> -->
     <br>
-    <a href="https://twitter.com/gizmo_gg">
+    <a href="https://twitter.com/0xgizmo">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/abbas-ali-mehtar-4075a6199/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-     <a href="https://www.instagram.com/gizmo_gg/">
+     <a href="https://www.instagram.com/abbasali.eth/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://blog.abbasali.me/">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=whitee">
     </a>
      <a href="https://www.youtube.com/channel/UClTrC1sq59NvfKT3L7zG39A">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -160,9 +155,9 @@ I am Abbas Ali , Another Backend developer struggling with Frontend.🎭
   
 
 
-<h1 id="meme" align="center"> Here's A Meme:</h1>
+<!-- <h1 id="meme" align="center"> Here's A Meme:</h1>
 <p align="center"> 
   <img height="300" align="center" src="https://memer-api.live/randommeme">
 </p>
-<p align="center"> <a href="https://github.com/gizmo-dev">Refresh</a></p>
+<p align="center"> <a href="https://github.com/gizmo-dev">Refresh</a></p> -->
 
